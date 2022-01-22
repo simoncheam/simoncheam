@@ -1,6 +1,8 @@
 <h2> Hey there👋 I'm Simon.</h2>
+<h3> I enjoy delivering creative solutions to challenging problems...and helping interesting companies grow.  
+Additionally, I love contributing massive value to everyone involved in the process.</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;If I had my own Pokémon card, here's just some of what would be on the back of it: </h3>
 
 - 🤔 &nbsp; .
 - 🎓 &nbsp; .
