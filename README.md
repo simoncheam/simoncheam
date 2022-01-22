@@ -4,10 +4,10 @@ Additionally, I love contributing massive value to everyone involved in the proc
 
 <h3> 👨🏻‍💻 &nbsp;If I had my own Pokémon card, here's just some of what would be on the back of it: </h3>
 
-- 🤔 &nbsp; .
-- 🎓 &nbsp; .
-- 💼 &nbsp; .
-- 🌱 &nbsp; .
+- ☎️ &nbsp; . Sold over $10 million of products and services within 7 months during the pandemic (working remotely)
+- 🌴 &nbsp; . Created and built a fitness product company while living in the jungles of Costa Rica.
+- ✈️ &nbsp; . Served as integrated product team lead for development and repair of gas turbine hardware from initial concept to production
+- 👨🏻‍💻 &nbsp; .
 - ✍️ &nbsp; .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
