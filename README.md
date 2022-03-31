@@ -1,6 +1,6 @@
 <h2> 👋 Hey there, I'm Simon.</h2>
 
-<h3> I enjoy helping interesting companies grow with creative full-stack solutions.  
+<h3> I enjoy helping interesting companies grow with creative full-stack solutions.<br>  
 Additionally, I love contributing massive value to everyone involved in the process.</h3>
 
 <h3> 🤔 &nbsp;If I had my own Pokémon card, here's just some of what would be on the back of it: </h3>
@@ -9,7 +9,7 @@ Additionally, I love contributing massive value to everyone involved in the proc
 - 🌴 &nbsp; Created and built a fitness product company while living in the jungles of Costa Rica.
 - ✈️ &nbsp; Served as integrated product team lead for development and repair of gas turbine hardware from initial concept to production
 - 👨🏻‍💻 &nbsp; Over 6+ years of product design and project engineering experience
-- ✍️ &nbsp; . 
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
