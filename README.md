@@ -40,7 +40,7 @@ Additionally, I love contributing massive value to everyone involved in the proc
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.simoncheam.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.simoncheam.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.simoncheam.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.simoncheam.dev-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/simoncheam/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Simon%20Cheam-blue?style=flat-square&logo=linkedin"></a>
 
 
