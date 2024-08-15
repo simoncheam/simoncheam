@@ -7,7 +7,7 @@ Additionally, I love contributing massive value to everyone involved in the proc
 
 - ☎️ &nbsp; Sold over $10 million of products and services within 7 months during the pandemic (working remotely)
 - 🌴 &nbsp; Created and built a fitness product company while living in the jungles of Costa Rica.
-- ✈️ &nbsp; Served as integrated product team lead for development and repair of gas turbine hardware from initial concept to production
+- ✈️ &nbsp; Served as product team lead for gas turbine hardware and process development from initial concept to production
 - 👨🏻‍💻 &nbsp; Over 6+ years of product design and project engineering experience
 
 
@@ -16,9 +16,14 @@ Additionally, I love contributing massive value to everyone involved in the proc
 
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -28,16 +33,10 @@ Additionally, I love contributing massive value to everyone involved in the proc
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<br/>
-
-<a href="https://github.com/simoncheam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simoncheam&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoncheam&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.simoncheam.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.simoncheam.dev-blue?style=flat-square&logo=google-chrome"></a>
