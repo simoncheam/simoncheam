@@ -19,7 +19,7 @@ At a fintech payments platform, most recently:
 - **Automated multi-step dev workflows in Python** by invoking Claude Code in headless mode to run custom slash commands programmatically in sequence; integrated agents with Jira/Confluence, browser automation, and observability through MCP servers
 - Led an **Ember → React micro-frontend migration** (single-spa) of a business growth module, integrated into the app shell with feature-flag gating to cut tech debt without downtime
 - Built the core screens of a **self-service online ordering redesign** that contributed to a **44% lift in monthly app installs**
-- Shipped full-stack features across Ember and React frontends and Express APIs, including onboarding and **internationalization (i18n)** with feature-flag-gated rollout for European market expansion
+- Shipped full-stack features across legacy and React frontends and Express APIs, including onboarding and **internationalization (i18n)** with feature-flag-gated rollout for European market expansion
 
 ### 🤔 If I had my own Pokémon card, here's just some of what would be on the back of it:
 
@@ -35,7 +35,7 @@ At a fintech payments platform, most recently:
 
 **Languages** &nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
-**Frontend** &nbsp;![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs) ![Ember.js](https://img.shields.io/badge/-Ember.js-333333?style=flat&logo=emberdotjs) ![single-spa](https://img.shields.io/badge/-single--spa%20microfrontends-333333?style=flat) ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-333333?style=flat&logo=reactquery) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss) ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-333333?style=flat&logo=shadcnui)
+**Frontend** &nbsp;![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs) ![single-spa](https://img.shields.io/badge/-single--spa%20microfrontends-333333?style=flat) ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-333333?style=flat&logo=reactquery) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss) ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-333333?style=flat&logo=shadcnui)
 
 **Backend & Data** &nbsp;![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma) ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe)
 
