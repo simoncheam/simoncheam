@@ -9,13 +9,14 @@ I help interesting companies grow with creative full-stack solutions — and I l
 ### 🤖 What I'm working on
 
 - **Agentic engineering standards** — my own repo of reusable commands, skills, subagents, and multi-step AI workflows, so AI-assisted development stays consistent and reviewable instead of prompt-and-hope
-- **Headless orchestration** — automating multi-step dev workflows in Python by invoking Claude Code programmatically, integrated with Jira/Confluence, browser automation, and observability via MCP servers
 - **Retrieval systems** — a serverless RAG pipeline on AWS Bedrock with hallucination safeguards and hard cost controls (see Selected Work)
 
 ### 🏗 Recent production work
 
 At a fintech payments platform, most recently:
 
+- Introduced **agentic engineering practice** to an enterprise engineering org — shared commands, skills, subagents, and AI workflow orchestration that other engineers could adopt, keeping AI-assisted work consistent and reviewable with a human in the loop
+- **Automated multi-step dev workflows in Python** by invoking Claude Code in headless mode to run custom slash commands programmatically in sequence; integrated agents with Jira/Confluence, browser automation, and observability through MCP servers
 - Led an **Ember → React micro-frontend migration** (single-spa) of a business growth module, integrated into the app shell with feature-flag gating to cut tech debt without downtime
 - Built the core screens of a **self-service online ordering redesign** that contributed to a **44% lift in monthly app installs**
 - Shipped full-stack features across Ember and React frontends and Express APIs, including onboarding and **internationalization (i18n)** with feature-flag-gated rollout for European market expansion
